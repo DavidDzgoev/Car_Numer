@@ -1,5 +1,5 @@
 # License plate
-In this project I tried to implement license plate recognition from the image. I used a ready-made dataset and Tensorflow
+In this project I tried to implement license plate recognition from the image. I used a ready-made dataset and Keras
 
 ---------
 symbols dataset:https://drive.google.com/file/d/1eY5ZOMBpzNJgJUmbpUzNpEXEAmtUONAw/view?usp=sharing
