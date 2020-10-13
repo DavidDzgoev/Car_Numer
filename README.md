@@ -9,4 +9,4 @@ license plates dataset: https://drive.google.com/file/d/13Q8vna7mu7yoQW_bYWH1Q2j
 -------
 symbols recognition model: https://drive.google.com/file/d/157tpIAxP-npi4peoWkL5ooixaXu3NL6t/view?usp=sharing
 
-plate detection model: https://drive.google.com/file/d/1BI-3xbTNkO8lQ5K5bj-UlLP88pxouWxR/view?usp=sharing
+plate detection model: https://drive.google.com/file/d/1UtjSJi_mLqSq8kHehxiCyUlbwqbM56a8/view?usp=sharing
